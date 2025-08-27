@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+plotly
+prophet
+scikit-learn
+nbformat>=4.2.0
+kaleido
